@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://www.instagram.com/p/DDwsnYMs9-B/?igsh=MXZsNGdhbXMwb2libQ==" target="_blank">  
@@ -21,3 +22,7 @@
 
 
 
+=======
+# RecipeWiserai
+Recipe Wiser AI static Web APP for raising fund for the Full development of the Mobile App
+>>>>>>> a2d5f83b54c223ada9f1246de31d0a02b4fba5e3
